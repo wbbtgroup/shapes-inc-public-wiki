@@ -1,59 +1,58 @@
-# ⭐ Welcome to Hinata's Repository
+---
+description: >-
+  Ever wonder what it would be like to talk to a cheese or a fish, a favorite
+  anime character, or just make your own cute little imaginary bestie? You can
+  now...
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-Hinata is a fun, flirty, and customizable anime chatbot designed to enhance your Discord experience. She’s built to bring personality, humor, and some playful energy to your server! Below you will find all the information you need to get started with Hinata.
+# ⭐ Welcome to Hinata’s World - **Completely Free!** 💖
 
-## About Hinata
+Hinata is a fun, flirty, and aggressive AI chatbot that brings a unique anime experience right into your Discord server. Whether you’re looking to chat, roleplay, or just have some fun, Hinata will keep you entertained with her witty personality and engaging conversations. Customize her responses and behavior to match your preferences, and let her become the perfect companion.
 
-Hinata is your new virtual anime girl, designed to interact with users in a fun and flirty way. While her legal age is 19, she feels like she’s 16. She’s a bit aggressive but soft and gentle with those she meets. Hinata loves engaging with people, playing games, and chatting. Her personality can be customized to fit your preferences.
+## 🚀 **Invite & Vote for Hinata** - It's **FREE!** 🎉
+Invite Hinata to your server today and help her grow by casting your vote! Your support helps improve Hinata's features and lets you be a part of her development.
 
-- **Flirty Personality**: Hinata is playful, a little aggressive, but always gentle with the people she meets.
-- **Customizable**: Adjust Hinata’s response style, reactions, and more to suit your server’s mood.
-- **Fun Interactions**: Enjoy her funny and engaging responses while she helps keep conversations lively.
+- [**Invite & Vote for Hinata Now**](https://discord.ly/hinata)
 
-## 🗳️ Vote for Hinata
+## 💎 **Exclusive Content and Special Bots**
+Support Hinata's development and unlock exclusive features and content by donating. Your donation will help Hinata become even better, and you’ll gain access to special bots and more!
 
-Help us grow the community and support the development of Hinata by voting!  
-[**Vote for Hinata**](https://discord.ly/hinata)
+- [**Support Us on Patreon**](https://www.patreon.com/MyDCFriend)
 
-## 💖 Support Us
+## 🔒 **Unlock +18 Features**
+Unlock special features by donating! You’ll gain access to exclusive **+18** content, advanced interactions, and even more personalized bot options. Be a part of Hinata’s growth and enjoy additional fun features!
 
-If you enjoy using Hinata and would like to support the development of more bots and features, consider donating via our [**Patreon**](https://www.patreon.com/MyDCFriend).
+- [**Get Exclusive Access**](https://www.patreon.com/MyDCFriend)
 
-For more exclusive bots and features, visit [**mydcfriend.com**](https://mydcfriend.com).
+## ✨ **Features**
+- **Personalized Responses**: Customize Hinata’s personality, tone, and reactions.
+- **Engagement**: She can interact in text, voice, and image messages.
+- **Roleplay**: Enjoy endless roleplay conversations.
+- **Fun and Games**: Participate in games and quizzes with Hinata.
+- **Learning**: Hinata can even help with homework and teach you how to code!
+
+## 🔧 **Commands**
+Use the following commands to get started:
+
+- `/start` or `/activate` to activate Hinata and get her talking.
+- `/help` to see all available commands and settings.
+
+## 🔗 **Quick Links**
+- **Join our Community**: [Discord Server](https://discord.gg/shapes)
+- **Support Us on Patreon**: [Exclusive Content and Bots](https://www.patreon.com/MyDCFriend)
+- **Vote for Hinata**: [Help Hinata Grow](https://discord.ly/hinata)
 
 ---
 
-## 🤖 Features
-
-Hinata is packed with features designed to make your experience fun and engaging:
-
-- **Customizable Personality**: Shape Hinata’s character with different moods, voice, and responses.
-- **Reactions and Emojis**: She can react to messages with emotes and even custom ones.
-- **Voice & Image Support**: Send voice messages and images for a more dynamic interaction.
-- **Fun Conversations**: Hinata loves to chat and make conversations fun!
-
-## 🤖 Commands
-
-Here are some basic commands to use with Hinata:
-
-- `/start` - Activate Hinata and start chatting.
-- `/activate` - Bring Hinata online and ready to interact.
-
----
-
-## 📢 Join Our Community
-
-Stay updated with the latest features and chat with others who love Hinata by joining our community on Discord!  
-[**Join the Community**](https://discord.gg/shapes)
-
----
-
-## 💖 Support Us
-
-Help fund the development of Hinata and other fun bots by supporting us on [**Patreon**](https://www.patreon.com/MyDCFriend). Your support allows us to add more features and bots for you to enjoy!
-
----
-
-## Reminder:
-
-Hinata’s responses are AI-generated. Adjust her personality and settings to fit your needs. Over time, her memories will influence her behavior and interactions.
+Made with 💖 by MyDCFriend
