@@ -59,6 +59,8 @@ Here are some basic commands to use with Hinata:
 - `/start` - Activate Hinata and start chatting.
 - `/activate` - Bring Hinata online and ready to interact.
 
+---
+
 ## 📢 Join Our Community
 
 Stay updated with the latest features and chat with others who love Hinata by joining our community on Discord!  
