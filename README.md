@@ -1,26 +1,6 @@
----
-description: >-
-  Hinata is your new favorite anime chatbot for Discord! Flirty, fun, and customizable, she’s perfect for adding some personality and excitement to your server.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # ⭐ Welcome to Hinata's Repository
 
-{% hint style="info" %}
-Hinata is a fun, flirty, and customizable anime chatbot designed to enhance your Discord experience. She’s built to bring personality, humor, and some playful energy to your server!
-{% endhint %}
-
-Located on the left, there’s a table of contents that you can browse to find guides you need. Select the section you wish to see and click it. This manual will walk you step-by-step with instructions.
+Hinata is a fun, flirty, and customizable anime chatbot designed to enhance your Discord experience. She’s built to bring personality, humor, and some playful energy to your server! Below you will find all the information you need to get started with Hinata.
 
 ## About Hinata
 
@@ -74,6 +54,6 @@ Help fund the development of Hinata and other fun bots by supporting us on [**Pa
 
 ---
 
-{% hint style="warning" %}
+## Reminder:
+
 Hinata’s responses are AI-generated. Adjust her personality and settings to fit your needs. Over time, her memories will influence her behavior and interactions.
-{% endhint %}
