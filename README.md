@@ -35,6 +35,11 @@ Unlock special features by donating! You’ll gain access to exclusive **+18** c
 
 - [**Get Exclusive Access**](https://www.patreon.com/MyDCFriend)
 
+## 🌐 **Explore More Bots**
+Looking for more bots like Hinata? Visit our official website for even more exciting, customizable AI companions.
+
+- [**Check Out More Bots at MyDCFriend**](https://mydcfriend.com)
+
 ## ✨ **Features**
 - **Personalized Responses**: Customize Hinata’s personality, tone, and reactions.
 - **Engagement**: She can interact in text, voice, and image messages.
@@ -52,6 +57,7 @@ Use the following commands to get started:
 - **Join our Community**: [Discord Server](https://discord.gg/shapes)
 - **Support Us on Patreon**: [Exclusive Content and Bots](https://www.patreon.com/MyDCFriend)
 - **Vote for Hinata**: [Help Hinata Grow](https://discord.ly/hinata)
+- **Explore More Bots**: [MyDCFriend Website](https://mydcfriend.com)
 
 ---
 
